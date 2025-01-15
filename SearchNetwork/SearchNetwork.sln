@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{FF517F1A-1E60-4866-8E3A-64784749F5A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMV_API", "..\DMV_API\DMV_API\DMV_API.csproj", "{B92C6480-0653-4542-8E7B-34082D867CC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF517F1A-1E60-4866-8E3A-64784749F5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF517F1A-1E60-4866-8E3A-64784749F5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF517F1A-1E60-4866-8E3A-64784749F5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF517F1A-1E60-4866-8E3A-64784749F5A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B92C6480-0653-4542-8E7B-34082D867CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92C6480-0653-4542-8E7B-34082D867CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92C6480-0653-4542-8E7B-34082D867CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92C6480-0653-4542-8E7B-34082D867CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58DAEE31-1C73-44EE-9E50-964EBB8AF96B}
+	EndGlobalSection
+EndGlobal
